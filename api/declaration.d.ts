@@ -1,0 +1,1 @@
+C:/Users/nmcap/Documents/Metiongular/whatsapp/src/declaration.d.ts
